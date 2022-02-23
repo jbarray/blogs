@@ -1,7 +1,6 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: 蒋保英
+description: web前端开发工程师. 一个不断学习、积累技术的人.
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -28,17 +27,13 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
-twitter:
-  username: vszhub
-  card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Baoying Jiang
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/jbarray
 google_site_verification: xxxxx
-lang: en
+lang: cn
 
 sass:
   sass_dir: _sass
@@ -54,6 +49,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Baoying Jiang
+  url: https://github.com/jbarray
+  email: jiangbaoying413@gmail.com
